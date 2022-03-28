@@ -1,4 +1,4 @@
-package java.curso.completo.secao4.aula24;
+package curso.completo.secao.estrurura.secao04.aula24;
 
 import java.util.Locale;
 

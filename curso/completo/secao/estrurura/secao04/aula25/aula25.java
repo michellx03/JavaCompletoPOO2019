@@ -1,4 +1,4 @@
-package java.curso.completo.secao4.aula25;
+package curso.completo.secao.estrurura.secao04.aula25;
 
 public class aula25 {
 
